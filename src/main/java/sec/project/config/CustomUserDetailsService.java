@@ -38,3 +38,5 @@ public class CustomUserDetailsService implements UserDetailsService {
                 Arrays.asList(new SimpleGrantedAuthority("USER")));
     }
 }
+
+hello it is me 
